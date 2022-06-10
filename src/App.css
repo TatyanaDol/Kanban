@@ -1,0 +1,13 @@
+html, body, #root, .App, .container {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  background: linear-gradient(225deg, #FEA7D4, #8687F3);
+}
+
+.flex_row {
+  column-gap: 10px;
+}
+
